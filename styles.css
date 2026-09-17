@@ -1,0 +1,130 @@
+/*
+
+#ede1b1	(237,225,177)
+#cdb79e	(205,183,158)
+#fafad2	(250,250,210)
+#2e2e2e	(46,46,46)
+#8b0000	(139,0,0)
+
+*/
+
+body{
+    background-color: #ede1b1;
+}
+
+.TOP-BAR {
+    background-color: #cdb79e;
+    display: flex;
+}
+
+.TOP-BAR h1{
+    color: #2e2e2e;
+}
+
+.NAVBAR{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #cdb79e;
+    padding: 15px 30px;
+}
+
+.Links{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+
+}
+
+.Links li{
+    margin-left: 20px;
+}
+
+.Links li a{
+    text-decoration: none;
+    color: #2e2e2e;
+    transition-duration: 0.5s;
+    font-size: 18px;
+}
+
+.Links li a:hover{
+    color: #8b0000;
+}
+
+.A-culture h2{
+    font-size: 30px;
+    color: #2e2e2e;
+}
+
+.HeroC{
+    display: flex;
+    padding: 10px;
+}
+
+.HeroC article{
+    font-size: 20px;
+    color: #2e2e2e;
+}
+
+.tokyo h2{
+    color: #2e2e2e;
+    font-size: 30px;
+}
+
+#akhibara{
+    padding: 10px 20px;
+}
+
+.tokyo h2{
+    font-size: 30px;
+    color: #2e2e2e;
+}
+
+.tokyo p{
+    font-size: 20px;
+    color: #2e2e2e;
+}
+.FAM{
+    display: flex;
+    padding: 10px 10px;
+}
+
+#MountF{
+    border: 2px solid #8b0000;
+    background-color: #cdb79e;
+    padding: 20px;
+}
+
+#MountF h3{
+    color: #8b0000;
+    font-size: 25px;
+}
+
+#SkyL{
+    border: 2px solid #8b0000;
+    background-color: #cdb79e;
+    padding: 20px;
+}
+
+#SkyL h3{
+    color: #8b0000;
+    font-size: 25px;
+}
+
+#OS{
+    border: 2px solid #8b0000;
+    background-color: #cdb79e;
+    padding: 20px;
+}
+
+#OS h3{
+    color: #8b0000;
+    font-size: 25px;
+}
+
+footer{
+    display: flex;
+    padding: 10px 10px;
+}
