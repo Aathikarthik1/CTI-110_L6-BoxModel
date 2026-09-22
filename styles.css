@@ -74,8 +74,10 @@ body{
 }
 
 #akhibara{
-    padding: 10px 20px;
+    padding: 10px;
     border-radius: 150px;
+    border: 3px solid #8b0000;
+    margin: 30px;
 }
 
 .tokyo h2{
@@ -90,10 +92,11 @@ body{
 .FAM{
     display: flex;
     padding: 10px 10px;
+    gap: 200px;
 }
 
 #MountF{
-    border: 2px solid #8b0000;
+    border: 5px solid #8b0000;
     background-color: #cdb79e;
     padding: 20px;
     border-radius: 15px;
@@ -105,7 +108,7 @@ body{
 }
 
 #SkyL{
-    border: 2px solid #8b0000;
+    border: 5px solid #8b0000;
     background-color: #cdb79e;
     padding: 20px;
     border-radius: 15px;
@@ -117,7 +120,7 @@ body{
 }
 
 #OS{
-    border: 2px solid #8b0000;
+    border: 5px solid #8b0000;
     background-color: #cdb79e;
     padding: 20px;
     border-radius: 15px;
