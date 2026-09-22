@@ -75,6 +75,7 @@ body{
 
 #akhibara{
     padding: 10px 20px;
+    border-radius: 150px;
 }
 
 .tokyo h2{
@@ -95,6 +96,7 @@ body{
     border: 2px solid #8b0000;
     background-color: #cdb79e;
     padding: 20px;
+    border-radius: 15px;
 }
 
 #MountF h3{
@@ -106,6 +108,7 @@ body{
     border: 2px solid #8b0000;
     background-color: #cdb79e;
     padding: 20px;
+    border-radius: 15px;
 }
 
 #SkyL h3{
@@ -117,6 +120,7 @@ body{
     border: 2px solid #8b0000;
     background-color: #cdb79e;
     padding: 20px;
+    border-radius: 15px;
 }
 
 #OS h3{
